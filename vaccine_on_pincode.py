@@ -6,7 +6,6 @@ website: www.aipython.in
 Sends Notifications on a Telegram channel , whenever the Vaccine(s) is available at the given PINCODE 
 """
 
-import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 import os
